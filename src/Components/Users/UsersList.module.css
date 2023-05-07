@@ -1,0 +1,17 @@
+.users {
+    margin: 2rem auto;
+    width: 90%;
+    max-width: 40rem;
+  }
+  
+  .users ul {
+    list-style: none;
+    padding: 1rem;
+  }
+  
+  .users li {
+    background: rgb(13, 173, 147);
+    border: 1px solid #3d01ac;
+    margin: 0.5rem 0;
+    padding: 0.5rem;
+  }
